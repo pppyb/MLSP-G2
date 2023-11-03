@@ -1,5 +1,4 @@
 .DS_Store
 
-decomposed_data/*
-preprocessed_data/*
+*.csv
 
