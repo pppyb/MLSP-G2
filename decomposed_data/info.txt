@@ -1,0 +1,45 @@
+- increase_mat_one
+  - nmf
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+  - pca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+
+
+- increase_mat_two
+  - nmf
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+  - pca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+
+
+- steady_mat
+  - nmf
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+  - pca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
+
+_pca_compo_2
