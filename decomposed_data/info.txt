@@ -11,6 +11,12 @@
     - components 8
     - components 16
     - components 32
+  - ipca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
 
 
 - increase_mat_two
@@ -26,7 +32,12 @@
     - components 8
     - components 16
     - components 32
-
+  - ipca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
 
 - steady_mat
   - nmf
@@ -41,5 +52,9 @@
     - components 8
     - components 16
     - components 32
-
-_pca_compo_2
+  - ipca
+    - components 2
+    - components 4
+    - components 8
+    - components 16
+    - components 32
